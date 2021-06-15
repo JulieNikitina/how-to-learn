@@ -2,7 +2,8 @@
   display: flex;
   justify-content: space-between;
   top: 50px;
-  width: 1050px;
+  min-width: 1050px;
   position: relative;
+  z-index: 1;
 
 }
